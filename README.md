@@ -1,4 +1,4 @@
-To Do app developed using React JS and Firebase. The app is hosted on url https://todo-app-cp-815ac.web.app/
+To Do app developed using React JS and Firebase. The app is hosted on https://todo-app-cp-815ac.web.app/
 
 
 # Getting Started with Create React App
