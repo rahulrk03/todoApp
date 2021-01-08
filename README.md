@@ -1,3 +1,6 @@
+A ToDO app developed using React JS and Firebase. The app is hosted on url https://todo-app-cp-815ac.web.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
